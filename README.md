@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello my name is Mark im from Czechia and I'm studying computer science so wish me luck with that.
+Hello my name is Mark I am from Czechia and studying computer science so wish me luck with that.
 <!--
 **Marek516k/Marek516k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

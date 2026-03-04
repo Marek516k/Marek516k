@@ -1,5 +1,5 @@
 # Hi there 👋
-# my name is Mark I am from Czechia and for now im studying computer science so wish me luck with that.
+my name is Mark I am from Czechia and for now im studying computer science so wish me luck with that.
 
 - currently making a roguelike game
 <!--

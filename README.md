@@ -1,6 +1,7 @@
 # Hi there 👋
+## my name is Mark I am from Czechia and for now im studying computer science so wish me luck with that.
 
-Hello my name is Mark I am from Czechia for now im studying computer science so wish me luck with that.
+- currently making a roguelike game
 <!--
 **Marek516k/Marek516k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
